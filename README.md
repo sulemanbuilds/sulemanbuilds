@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Suleman Memon 👋
 
-### Software Engineering Student | Aspiring SaaS Developer
+### Software Engineering Student | SaaS Developer
 
 I'm a Software Engineering student passionate about building real-world software projects and continuously improving my development skills.
 
