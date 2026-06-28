@@ -1,124 +1,73 @@
 # Hi, I'm Muhammad Suleman Memon 👋
 
-### Software Engineering Student | SaaS Developer
+I build websites, eCommerce stores, and business management systems for small businesses.
 
-I'm a Software Engineering student passionate about building real-world software projects and continuously improving my development skills.
-
-Currently, I'm focused on strengthening my understanding of software engineering fundamentals, system design, backend development, and modern web technologies while working on practical projects that solve real problems.
+Currently studying BS Software Engineering and building practical web projects to improve my skills in full-stack development, databases, and real-world software workflows.
 
 ---
 
-## 🚀 Current Focus
+## What I Build
 
-* Learning System Design
-* Improving Backend Development Skills
-* Building Real-World Projects
-* Exploring SaaS Product Development
-* Strengthening Software Engineering Fundamentals
-
----
-
-## 💻 Technologies & Tools
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-
-### Backend
-
-* Python
-* Flask
-* PHP *(Learning)*
-* Laravel *(Learning)*
-
-### Database
-
-* MySQL
-
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
+* Business websites
+* Portfolio websites
+* eCommerce stores
+* Inventory and POS systems
+* Membership and fee management systems
+* Custom business dashboards
 
 ---
 
-## 📂 Projects
+## Tech Stack
 
-### 🎵 FolderPlay Demo
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** Python Flask, PHP & Laravel
+**Database:** MySQL
+**Tools:** Git, GitHub, VS Code
 
-A web-based music player built using HTML, CSS, and JavaScript that loads and plays songs from a local storage folder.
+---
 
-**Repository:** `folderplay-demo`
+## Projects
 
-**Key Features**
+### FolderPlay
 
-* Local folder-based music loading
-* Playlist generation
-* Audio playback controls
+A browser-based music player built with HTML, CSS, and JavaScript.
+
+* Loads music from local folders
+* Playlist and playback controls
 * Responsive interface
 
----
-
-### 📦 Stock Control App
-
-A practice project developed using Python Flask and MySQL.
-
-**Features**
-
-* Product Management
-* Inventory Tracking
-* Database Integration
-* CRUD Operations
-* Backend Development Practice
+Repo: [folderplay-demo](https://github.com/sulemanbuilds/folderplay-demo)
 
 ---
 
-## 📚 Learning Journey
+### Stock Control App
 
-I believe the best way to learn software development is by building practical projects.
+A Flask and MySQL based inventory and POS management system.
 
-My current learning roadmap includes:
+* Product, category, brand, and supplier management
+* Purchase and sales tracking
+* Stock increase/decrease logic
+* POS checkout and receipt flow
 
-* Computer Architecture Basics
-* Operating Systems Fundamentals
-* System Design
-* Backend Engineering
-* SaaS Development
-* Software Architecture
+Repo: [stock-control-app](https://github.com/sulemanbuilds/stock-control-app)
 
 ---
 
-## 🎯 Goals
+## Current Focus
 
-* Build production-ready SaaS applications
-* Improve system design skills
-* Master backend development
-* Contribute to open-source projects
-* Create software that solves real-world problems
-
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub stats can be added later -->
+* Learning PHP and Laravel
+* Building practical business software
+* Improving backend and database design
+* Creating projects under SulemanBuilds
 
 ---
 
-## 🔄 Version
+## Connect
 
-Current Profile README Version: **v1.0**
-
-Future Updates:
-
-* Social Links
-* Portfolio Website
-* Project Showcase Expansion
-* GitHub Stats Integration
-* Contribution Activity
+Website: [SulemanBuilds.com](https://sulemanbuilds.com)
+LinkedIn: [Muhammad Suleman Memon](https://www.linkedin.com/in/msullemanm/)
+GitHub: [@sulemanbuilds](https://github.com/sulemanbuilds)
 
 ---
 
-Thanks for visiting my profile! 🚀
+Building practical web solutions for real business needs.
