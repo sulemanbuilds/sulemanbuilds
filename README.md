@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Suleman Memon 👋
 
-I build websites, eCommerce stores, and business management systems for small businesses.
+I build websites, eCommerce stores, and business management systems for businesses.
 
 Currently studying BS Software Engineering and building practical web projects to improve my skills in full-stack development, databases, and real-world software workflows.
 
@@ -55,7 +55,6 @@ Repo: [stock-control-app](https://github.com/sulemanbuilds/stock-control-app)
 
 ## Current Focus
 
-* Learning PHP and Laravel
 * Building practical business software
 * Improving backend and database design
 * Creating projects under SulemanBuilds
@@ -64,8 +63,7 @@ Repo: [stock-control-app](https://github.com/sulemanbuilds/stock-control-app)
 
 ## Connect
 
-Website: [SulemanBuilds.com](https://sulemanbuilds.com)
-LinkedIn: [Muhammad Suleman Memon](https://www.linkedin.com/in/msullemanm/)
+LinkedIn: [Muhammad Suleman Memon](https://www.linkedin.com/in/sulemanbuilds/)
 GitHub: [@sulemanbuilds](https://github.com/sulemanbuilds)
 
 ---
